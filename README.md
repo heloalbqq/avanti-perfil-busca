@@ -4,7 +4,6 @@ Este projeto foi desenvolvido como parte do desafio técnico do programa da Avan
 
 A aplicação permite buscar usuários do GitHub e exibir suas informações, seguindo o layout proposto no Figma.
 
-https://www.figma.com/proto/DqtFxC6312M32mLt8FpJjq/innovation-class?page-id=22%3A2864&node-id=22-3959&viewport=359%2C115%2C0.25&t=SHsEqEgaMrXGMKwv-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=22%3A3959&show-proto-sidebar=1
 ---
 
 ## 🎨 Layout (Figma)
@@ -14,11 +13,6 @@ https://www.figma.com/proto/DqtFxC6312M32mLt8FpJjq/innovation-class?page-id=22%3
 
 ---
 
-## 📸 Preview
-
-<img src="./public/image.png" alt="Preview do projeto" />
-
----
 
 ## 🚀 Tecnologias utilizadas
 
