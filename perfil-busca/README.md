@@ -13,11 +13,6 @@ A aplicação permite buscar usuários do GitHub e exibir suas informações, se
 
 ---
 
-## 📸 Preview
-
-<img src="./public/image.png" alt="Preview do projeto" />
-
----
 
 ## 🚀 Tecnologias utilizadas
 
